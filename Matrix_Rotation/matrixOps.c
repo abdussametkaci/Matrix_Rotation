@@ -4,7 +4,7 @@
   * matrisin son hali ekrana bastirir
   * @assignment Odev 1 
   * @date 29.11.2019
-  * @author Abdussamet KACI abdussamet.kaci@stu.fsm.edu.tr 
+  * @author Abdussamet KACI 
  */
 
 //kutuphaneler include edilir
